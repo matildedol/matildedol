@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 In my GitHub profile you will find the projects I have worked or am working on. I hope you find them interesting, and if you do, feel free to reach out anytime!
 
-More on me:
-
-My main academical interest lies at the intersection between Computer Science, Mathematics and Econometrics.
-I am very curious and always fascinated by the deep understanding of how things work!
-Alongside Maths, I love spending time with friends and in nature, doing sports, like volleyball, surfing, and skiing. 
-Here you can find my [CV](https://github.com/matildedol/matildedol/blob/main/CV_matildedol.pdf)
+More on me:  
+My main academical interest lies at the intersection between Computer Science, Mathematics and Econometrics.  
+I am very curious and always fascinated by the deep understanding of how things work!  
+Alongside Maths, I love spending time with friends and in nature, doing sports, like volleyball, surfing, and skiing.   
+Here you can find my [CV](https://github.com/matildedol/matildedol/blob/main/CV_matildedol.pdf).  
 
