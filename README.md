@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 - 🌊 I am an Artificial Intelligence MSc student at Bocconi University
 - 🏔️ Prior to this, I did my BSc in Economic and Social Sciences also at Bocconi
-- 💫 During my BSc, I worked as a research assistant for Prof. Massimo Marinacci in the field of theoretical economics and mathematics
+- 🏄🏼‍♀️ During my BSc, I worked as a research assistant for Prof. Massimo Marinacci in the field of theoretical economics and mathematics
 - ☀️ I also studied General Biology and Genetics as single courses
 
 In my GitHub profile you will find the projects I have worked or am working on. I hope you find them interesting, and if you do, feel free to reach out anytime!
 
-More:
-I am very curious and always eager to understand how things work! My main academical interests lie at the intersection between Computer Science, Mathematics and Econometrics.
+More on me:
+
+My main academical interest lies at the intersection between Computer Science, Mathematics and Econometrics.
+
+I am very curious and always fascinated by the deep understanding of how things work!
+
 Alongside Maths, I love spending time with friends and in nature, doing sports, like volleyball, surfing, and skiing.
 
