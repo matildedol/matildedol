@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌊 I am an Artificial Intelligence MSc student at Bocconi University.
-🏔️ Prior to this, I did my BSc in Economic and Social Sciences also at Bocconi. During my BSc, I worked as a research assistant for Prof. Massimo Marinacci in the field of theoretical economics and mathematics. 
-☀️ I also studied General Biology and Genetics for my personal interest at Università di Milano.
+- 🌊 I am an Artificial Intelligence MSc student at Bocconi University
+- 🏔️ Prior to this, I did my BSc in Economic and Social Sciences also at Bocconi
+- 💫 During my BSc, I worked as a research assistant for Prof. Massimo Marinacci in the field of theoretical economics and mathematics
+- ☀️ I also studied General Biology and Genetics as single courses
 
-In my GitHub profile you will find the projects I have worked on. I hope you find them interesting, and if you do, feel free to reach out anytime!
+In my GitHub profile you will find the projects I have worked or am working on. I hope you find them interesting, and if you do, feel free to reach out anytime!
 
 More:
 I am very curious and always eager to understand how things work! My main academical interests lie at the intersection between Computer Science, Mathematics and Econometrics.
