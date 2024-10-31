@@ -25,5 +25,6 @@ More on me:
 
 My main academical interest lies at the intersection between Computer Science, Mathematics and Econometrics.
 I am very curious and always fascinated by the deep understanding of how things work!
-Alongside Maths, I love spending time with friends and in nature, doing sports, like volleyball, surfing, and skiing.
+Alongside Maths, I love spending time with friends and in nature, doing sports, like volleyball, surfing, and skiing. 
+Here you can find my [CV](https://github.com/matildedol/matildedol/blob/main/CV_matildedol.pdf)
 
