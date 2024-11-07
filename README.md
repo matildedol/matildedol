@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - 🏄🏼‍♀️ During my BSc, I worked as a research assistant for Prof. Massimo Marinacci in the field of theoretical economics and mathematics
 - ☀️ I also studied General Biology and Genetics as single courses
 
-In my GitHub profile you will find the projects I have worked and am working on. If you find them interesting, want to chat on something else or just want to say hi, feel free to reach out anytime! You can contact me at matilde.dolfato [at] gmail [dot] com or via LinkedIn.
+In my GitHub profile you will find the projects I have worked and am working on. If you find them interesting, want to chat on something else or just want to say hi, feel free to reach out anytime!  
+You can contact me at matilde.dolfato [at] gmail [dot] com or via LinkedIn.
 
 More about me:  
-My main academical interest lies at the intersection between Computer Science, Mathematics and Econometrics. Plus, I am keen on Biology and Bioinformatics.
+My main academical interest lies at the intersection between Computer Science, Mathematics and Econometrics.
 I am very curious and always fascinated by the deep understanding of how things work!  
 Alongside Maths, I love spending time with friends and in nature, doing sports, like volleyball, surfing, and skiing.   
 
