@@ -1,6 +1,6 @@
 ## Ciao! :)
 
-- 🌊 I am an Artificial Intelligence MSc student at Bocconi University
+- 🌊 I am a student of the MSc Artificial Intelligence at Bocconi University
 - 🏔️ Prior to this, I did my BSc in Economic and Social Sciences also at Bocconi
 - 🏄🏼‍♀️ During my BSc, I worked as a research assistant for Prof. Massimo Marinacci in the field of theoretical economics and mathematics
 - ☀️ I also studied General Biology and Genetics as single courses
