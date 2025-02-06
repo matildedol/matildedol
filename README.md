@@ -7,4 +7,4 @@
 
 In my GitHub profile you will find the projects I have worked and am working on. More to come ;)
 
-Here you can find my [CV](https://matildedol.github.io/files/cv.pdf).  
+<!-- Here you can find my [CV](https://matildedol.github.io/files/cv.pdf).  -->
