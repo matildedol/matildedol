@@ -1,4 +1,4 @@
-## Ciao! :)
+## Ciao! I'm Matilde :)
 
 - 🌊 I am a student of the MSc Artificial Intelligence at Bocconi University
 - 🏔️ Prior to this, I did my BSc in Economic and Social Sciences also at Bocconi
