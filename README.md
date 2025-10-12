@@ -1,9 +1,14 @@
 ## Ciao! I'm Matilde :)
 
-- 🏄🏼‍♀️ I am a master's student in artificial intelligence at Bocconi
-- 🌊 I am an enthusiast of the coniugation of mathematics and computer science
-- 🏔️ I did my bachelor's in economics, loved it and then opted for more math
-- ☀️ I truly love staying outside, talking with friends, sailing, and studying 
+I am a master's student in artificial intelligence at Bocconi 
+
+I am an enthusiast of the coniugation of mathematics and computer science 
+
+I did my bachelor's in economics, loved it and then opted for more math
+
+I truly love staying outside, talking with friends, sailing, and studying 
+
+🏄🏼‍♀️🌊🌞🏔️
 
 In my GitHub profile you will find the projects I have worked and am working on. More to come ;)
 
