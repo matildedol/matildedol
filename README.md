@@ -1,6 +1,6 @@
 ## Ciao! I'm Matilde :)
 
-I am an enthusiast master's student in artificial intelligence at Bocconi 
+I am a master's student in artificial intelligence at Bocconi 
 
 I look for a profound coniugation of mathematics and computer science 
 
