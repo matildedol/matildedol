@@ -1,8 +1,8 @@
 ## Ciao! I'm Matilde :)
 
-I am a master's student in artificial intelligence at Bocconi 
+I am an enthusiast master's student in artificial intelligence at Bocconi 
 
-I am an enthusiast of the coniugation of mathematics and computer science 
+I look for a profound coniugation of mathematics and computer science 
 
 I did my bachelor's in economics, loved it and then opted for more math
 
