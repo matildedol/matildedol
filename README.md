@@ -6,7 +6,7 @@ I look for a profound coniugation of mathematics and computer science
 
 I did my bachelor's in economics, loved it and then opted for more math
 
-I love being outside, talking with friends, sailing, and studying - though probably in that order
+I love being outside, talking with friends, sailing, and studying - don't mind the ordering
 
 🏄🏼‍♀️🌊🌞🏔️
 
